@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <div className="max-w-6xl mx-auto px-4 py-16 text-center sm:px-6 lg:px-8">
       <h1 className="text-4xl sm:text-6xl font-extrabold text-slate-900 tracking-tight mb-6">
-        Organize your work <br />
-        <span className="text-indigo-600">without the complexity.</span>
-      </h1>
+  Organize your life <br />
+  <span className="text-indigo-600">securely and easily.</span>
+</h1>
       <p className="max-w-2xl mx-auto text-lg sm:text-xl text-slate-500 mb-8 leading-relaxed">
         A client-side dashboard built to manage tasks cleanly. Create, filter, and track progress instantly without server delays.
       </p>
